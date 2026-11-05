@@ -1,0 +1,4 @@
+# XYZ: where the pad sits on the page, in page pixels (the page is 1280 x 628; 0,0 is its top-left).
+# id  x   y   w    h
+pad   340 14  600  600
+# Change the numbers and restart MPC (or remove and re-insert the plugin): only this line moves the pad.

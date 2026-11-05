@@ -1,0 +1,6 @@
+{
+ "params": [
+  {"key": "x", "name": "X", "default": 0.0, "min": -5, "max": 5, "dynamic_display": true},
+  {"key": "y", "name": "Y", "default": 0.0, "min": -5, "max": 5, "dynamic_display": true}
+ ]
+}

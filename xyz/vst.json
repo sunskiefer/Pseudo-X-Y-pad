@@ -1,0 +1,16 @@
+{
+  "name": "XYZ",
+  "vendor": "L'Cronx",
+  "uid": "AnXY",
+  "version": 1,
+  "so": "xyz.so",
+  "params": "params.json",
+  "layout": "layout.conf",
+  "skin_post": "../common/skin_post.py",
+  "cc": false,
+  "nrpn": false,
+  "defines": {
+    "PARAM_TEXT_MAX": 32,
+    "MODULE_SUBDIR": "\"pad\""
+  }
+}
